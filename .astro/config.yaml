@@ -1,0 +1,4 @@
+project:
+  name: etl-01
+postgres:
+  port: 5434
